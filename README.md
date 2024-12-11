@@ -1,3 +1,6 @@
+Made By: Sahil Khatri
+Made At: University of Melbourne
+
 # Web Crawl Application
 
 A Python-based web crawler that uses `BeautifulSoup` (bs4) for parsing and extracting data from websites. This application is ideal for small-scale data scraping and research projects, enabling efficient data collection and export.
